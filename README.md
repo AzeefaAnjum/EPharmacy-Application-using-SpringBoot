@@ -1,5 +1,6 @@
 # EPharmacy-Application-using-SpringBoot
 The E-Pharmacy Application , built using Spring Boot, is a Backend application where a user can order the medicines online. It empowers users to browse, select, and purchase prescribed medicines conveniently
+
 **Modules**
 
 1.Medicines
@@ -23,3 +24,11 @@ The E-Pharmacy Application , built using Spring Boot, is a Backend application w
 <b>Postman:</b> https://www.postman.com/downloads/
 
 <b>Spring Intializer to create a Maven Project: </b> https://start.spring.io
+
+**Dependencies to be selected in Spring Initializer**
+
+1.Spring Web
+
+2.Spring Data JPA
+
+3.MySQL Driver
